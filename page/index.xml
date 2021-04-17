@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Assignment Presentation</title>
+    <link>https://example.com/page/</link>
+    <description>Recent content in Pages on Assignment Presentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archives</title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Muhammad Awais Shah Adress Zakaria Hostel NUST,\ H12 Islamabad
+Education  2019-2023 (expected) BS, Computer Science; NUST (Islamabad) 2017-2019 ICS; Daanish School Boys Hasilpur (Islambad) Minor: Awesomeology
+  Experience Executive at Cyber Security
+ Graphic Designer  Technical Experience Programming Languages: Java,C++,C#,Python
+Skill of Technologies: Android Development,Web development,Game development(Unity)
+Extra Section, Call it Whatever You Want   Human Languages:
+ English (native speaker)    Sports
+Football   </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
